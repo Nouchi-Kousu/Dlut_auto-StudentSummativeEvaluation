@@ -14,7 +14,7 @@
 ## 安装
 
 > 使用前请先在浏览器安装插件[油猴Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)
-下载项目中的[自动评教.user.js](自动评教.user.js)文件并导入到油猴中，或在在[Greasy Fork](#)上安装
+下载项目中的[自动评教.user.js](自动评教.user.js)文件并导入到油猴中，或在在[Greasy Fork](https://greasyfork.org/zh-CN/scripts/467879-dlut%E8%87%AA%E5%8A%A8%E8%AF%84%E6%95%99)上安装
 
 ## 用法
 
