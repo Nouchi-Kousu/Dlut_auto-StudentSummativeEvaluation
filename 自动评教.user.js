@@ -14,7 +14,6 @@
     'use strict';
     // Your code here...
     setTimeout(() => {
-        const button = document.querySelector('button[data-v-247975c7]')
         const newButton = document.createElement('button')
         const ddiv = document.querySelector('div[class="main-container"]')
         newButton.className = "el-button el-button--primary el-button--small"
@@ -34,8 +33,6 @@
             text.value = ping[rad]
             text.dispatchEvent(new InputEvent("input"))
             button.click()
-
         })
-
     }, 5000)
 })(window, document);
