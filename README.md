@@ -34,4 +34,3 @@
 
 感谢所有贡献的人。
 
-[@Andy Cai](https://gitee.com/ITcyx)
