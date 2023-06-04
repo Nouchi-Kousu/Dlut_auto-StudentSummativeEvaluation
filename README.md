@@ -19,6 +19,7 @@
 ## 用法
 
 由于笔者水平有限，使用了延时的加载等待，打开[学生评教](http://jxgl.dlut.edu.cn/evaluation-student-frontend/#/byTask)5s后会在左下角显示评教按钮，在具体教师页面点击即可自动完成评教（不会自动提交，以后可能会写）
+
 ![评教按钮](preview/评教按钮.png)
 
 ## 相关项目
