@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         自动评教
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Nouchi-Kousu/Dlut_auto-StudentSummativeEvaluation
 // @version      0.1
-// @description  try to take over the world!
+// @description  Dlut_auto-StudentSummativeEvaluation
 // @author       Nouchi
 // @match        *://jxgl.dlut.edu.cn/*
 // @icon         https://i.postimg.cc/RVLkPrr1/image.png
