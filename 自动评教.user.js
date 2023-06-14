@@ -22,7 +22,7 @@
         const pingJiao = document.querySelector('span[data-id="114"]')
         pingJiao.parentNode.addEventListener('click', () => {
             const span = document.querySelectorAll('span[class="el-radio__input"]')
-            const j = [0, 4, 8, 12, 16, 20, 24, 28, 31, 33, 36, 38]
+            const j = [0, 4, 8, 12, 16, 20, 24, 28, 32, 35, 36, 38]
             for (let i = 0; i < j.length; i++) {
                 const ele = j[i];
                 span[ele].click()
