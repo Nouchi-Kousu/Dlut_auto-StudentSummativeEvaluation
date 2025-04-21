@@ -1,3 +1,5 @@
+本项目不再维护，建议使用[DUT_TeacherEvaluation_Auto_Submit_Tool](https://github.com/Lentinel/DUT_TeacherEvaluation_Auto_Submit_Tool)代替
+
 ## 目录
 
 - [背景](#背景)
